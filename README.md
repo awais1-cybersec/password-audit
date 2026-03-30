@@ -24,6 +24,6 @@ This project demonstrates:
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/Cyb3rDef3nd3r5/password-audit.git
+git clone https://github.com/awais1-cybersec/password-audit.git
 cd password-audit
 pip install -r requirements.txt
